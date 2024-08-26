@@ -1,0 +1,3 @@
+[submodule "bunny"]
+	path = bunny
+	url = https://github.com/xianglei/bunny.git
